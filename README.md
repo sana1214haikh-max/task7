@@ -1,0 +1,1 @@
+This project extracts basic sales insights from a tiny SQLite database using Python. The goal is to use SQL queries inside Python to compute total quantity sold and total revenue for each product, then display the results and generate a bar chart.
